@@ -1,8 +1,8 @@
-"Ishaan_Khattar_045022_(MLM_Project_1).ipynb" Contains the Source Code, Analysis, and Outputs for Clustering and other Machine Learning Models.
+"Ishaan_Khattar(045022)_MLM_Project_1.ipynb" Contains the Report, Source Code, Analysis, and Outputs for Clustering and other Machine Learning Models.
 
-PRODUCT SALES.csv is the CSV File that contains the dataset for Bike Sales 
+customer_segmentation_data.csv is the CSV File that contains the dataset for Bike Sales 
 
-Dataset Link: https://www.kaggle.com/datasets/kanyianalyst/customer-age-group-segmentation
+Dataset Link: https://www.kaggle.com/datasets/ravalsmit/customer-segmentation-data
 
 This repository belongs to Ishaan Khattar (Roll No: 045022), PGDM BDA 04 
 
