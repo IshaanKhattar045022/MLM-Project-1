@@ -1,4 +1,4 @@
-"Ishaan_Khattar(045022)__MLM_Project_1.ipynb" Contains the Report, Source Code, Analysis, and Outputs for Clustering and other Machine Learning Models.
+"Ishaan_Khattar(045022)_MLM_(Project_1).ipynb" Contains the Report, Source Code, Analysis, and Outputs for Clustering and other Machine Learning Models.
 
 customer_segmentation_data.csv is the CSV File that contains the dataset for Bike Sales 
 
